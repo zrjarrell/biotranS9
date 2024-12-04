@@ -1,0 +1,2 @@
+command to start webserver from biotranS9 top folder:
+npx http-server ./gui
